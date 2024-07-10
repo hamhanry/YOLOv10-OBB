@@ -2,6 +2,8 @@
 
 As this repo is launched on 10th July, there is still no pretrained model of YOLOv10 that supports OBB, therefore i initiate this repo and perform the training and testing based on [DOTAv1](https://captain-whu.github.io/DOTA/index.html) dataset.
 
+[![Hugging Face Spaces](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-Spaces-blue)](https://huggingface.co/spaces/hamhanry/YOLOv10-OBB)
+
 ## FEATURES
 - [x] Pretrained YOLOv10-N-OBB
 - [x] Pretrained YOLOv10-S-OBB
