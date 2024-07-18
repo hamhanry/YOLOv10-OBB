@@ -5,6 +5,9 @@ As this repo is launched on 10th July, there is still no pretrained model of YOL
 [![Hugging Face Spaces](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-Spaces-blue)](https://huggingface.co/spaces/hamhanry/YOLOv10-OBB)
 
 ## UPDATES
+### 18/07/2024
+- converter annotated label studio to YOLO-OBB is done. check the [repo](https://github.com/hamhanry/label-studio-converter-for-YOLO-OBB)
+
 ### 14/07/2024
 - added pretrained for Yolov10S(1024), Yolov10B, Yolov10L, Yolov10M, Yolov10X.
 - wip convertion from Label studio annotation to support training for [YOLO-OBB](https://github.com/hamhanry/label-studio-converter-for-YOLO-OBB)
