@@ -39,6 +39,7 @@ As this repo is launched on 10th July, there is still no pretrained model of YOL
 ## INSTALATION
 ```bash
 conda create -n rps python=3.11
+conda activate rps
 pip install -r requirements.txt
 ```
 
